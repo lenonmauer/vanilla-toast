@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode=development --watch",
+    "build": "webpack --mode=production"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
