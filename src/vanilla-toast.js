@@ -134,7 +134,6 @@
 
     fadeIn(toast, fadeTime, () => {
       timeout = setTimeout(closeToast, duration);
-      console.log('hi');
     });
 
     toast.addEventListener('click', () => {
