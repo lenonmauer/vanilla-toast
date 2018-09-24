@@ -1,1 +1,1 @@
-# vanilla-toast
+# Toast plugin in vanilla JS.
